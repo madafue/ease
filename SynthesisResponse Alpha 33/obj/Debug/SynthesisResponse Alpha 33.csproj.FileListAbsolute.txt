@@ -1,0 +1,19 @@
+C:\Users\TOJIMAA\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\bin\Debug\SynthesisResponse Alpha 33.exe.config
+C:\Users\TOJIMAA\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\bin\Debug\SynthesisResponse Alpha 33.exe
+C:\Users\TOJIMAA\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\bin\Debug\SynthesisResponse Alpha 33.pdb
+C:\Users\TOJIMAA\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\bin\Debug\Mail.dll
+C:\Users\TOJIMAA\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\bin\Debug\Mail.xml
+C:\Users\TOJIMAA\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\obj\Debug\SynthesisResponse Alpha 33.csprojAssemblyReference.cache
+C:\Users\TOJIMAA\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\obj\Debug\SynthesisResponse Alpha 33.csproj.CopyComplete
+C:\Users\TOJIMAA\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\obj\Debug\SynthesisResponse Alpha 33.exe
+C:\Users\TOJIMAA\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\obj\Debug\SynthesisResponse Alpha 33.pdb
+C:\Users\grace\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\bin\Debug\SynthesisResponse Alpha 33.exe.config
+C:\Users\grace\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\bin\Debug\SynthesisResponse Alpha 33.exe
+C:\Users\grace\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\bin\Debug\SynthesisResponse Alpha 33.pdb
+C:\Users\grace\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\bin\Debug\Mail.dll
+C:\Users\grace\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\bin\Debug\Mail.xml
+C:\Users\grace\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\obj\Debug\SynthesisResponse Alpha 33.csproj.AssemblyReference.cache
+C:\Users\grace\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\obj\Debug\SynthesisResponse Alpha 33.csproj.CoreCompileInputs.cache
+C:\Users\grace\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\obj\Debug\Synthesi.F2ADBB1E.Up2Date
+C:\Users\grace\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\obj\Debug\SynthesisResponse Alpha 33.exe
+C:\Users\grace\source\repos\SynthesisResponse Alpha 33\SynthesisResponse Alpha 33\obj\Debug\SynthesisResponse Alpha 33.pdb
